@@ -1,0 +1,1 @@
+A fun number guessing game coded in Python where the player have to guess the number randomly chosen by the computer (between 1 - 100 (Both inclusive)). It also provides the player with their best scores and the number of rounds they played.
